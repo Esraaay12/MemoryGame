@@ -1,7 +1,7 @@
 # MemoryGame
 # Java Memory Game
 
-![Java Memory game ] 
+
 
 ## Table of Contents
 
