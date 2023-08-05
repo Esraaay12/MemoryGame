@@ -2,7 +2,7 @@
 # Java Memory Game
 
 
-![Java Memory game ] 
+
 ## Table of Contents
 
 - [About](#about)
