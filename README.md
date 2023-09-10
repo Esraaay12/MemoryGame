@@ -1,7 +1,4 @@
-
-
-
-
+#Memory_Game
 # Java Memory Game
 
 ## Table of Contents
