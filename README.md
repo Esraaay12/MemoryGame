@@ -12,7 +12,7 @@
 - [Contributing](#contributing)
 - [License](#license)
 
-
+## About
 
 Java Memory Game is a simple memory-testing game built in Java. The game presents a grid of cards faced down, and the player must flip two cards at a time, trying to match pairs until all cards are revealed.
 
